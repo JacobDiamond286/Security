@@ -1,0 +1,6 @@
+Cipher rules:
+All vowels are numbers from 1-5 in order of a, e, i, o, u 
+All constanants are forward by 2 in the alphabet
+All symbols are up 1 on keyboard
+
+Cipher: 3 N4x2 Etarv4it1rja@
